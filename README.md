@@ -66,7 +66,7 @@ Text that is not a quote
 Quoted text is indented with a vertical line on the left and displayed using gray type.
 
 ![](https://docs.github.com/assets/cb-13462/mw-1440/images/help/writing/quoted-text-rendered.webp)
-> [!NOTICE]
+> [!NOTE]  
 > When viewing a conversation, you can automatically quote text in a comment by highlighting the text, then typing `R`. You can quote an entire comment by clicking..., then **Quote** replay. For more information about keyboard shortcuts, see [Keyboard shortcuts](https://docs.github.com/en/get-started/accessibility/keyboard-shortcuts).
 
 ### Quoting code
@@ -103,7 +103,7 @@ Here are the currently supported color models.
 |HEX|`#RRGGBB`|`#0969DA`|![](https://docs.github.com/assets/cb-1558/mw-1440/images/help/writing/supported-color-models-hex-rendered.webp)|
 |RGB|`rgb(R,G,B)`|`rgb(9,105,218)`|![](https://docs.github.com/assets/cb-1962/mw-1440/images/help/writing/supported-color-models-rgb-rendered.webp)|
 |HSL|`hsl(H,S,L)`|`hsl(212,92%,45%)`|![](https://docs.github.com/assets/cb-2066/mw-1440/images/help/writing/supported-color-models-hsl-rendered.webp)|
-> [!NOTICE]
+> [!NOTE]
 > * A supported color model cannot have any leading or traing spaces within the backticks.
 > * The visualization of the color is only supported in issues, pull requests, and discussions.
 
@@ -114,7 +114,7 @@ You can also create a Markdown hyperlink by highlighting the text and using the 
 This site was build using [GitHub Pages](https://pages.github.com/).
 ```
 This site was build using [GitHub Pages](https://pages.github.com/).
-> [!NOTICE]
+> [!NOTE]
 > Github automatically creates links when valid URLs are written in a comment. For more information, see [Autolinked referenxes and URLs](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/autolinked-references-and-urls).
 ### Section links 
 You can link directly to any section that has a heading. To view the automatically generated anchor in a rendered file, hover over the section heading to expose the 🔗 icon and click the icon to display the anchor in your browser.
@@ -154,7 +154,7 @@ Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in
 
 Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
 
-> [!NOTICE] 
+> [!NOTE] 
 > 
 > If you edit a heading, or if you change the order of headings with "identical" anchors, you will also need to update any links to those headings as the anchors will change,
 
