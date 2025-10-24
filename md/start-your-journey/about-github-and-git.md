@@ -35,3 +35,25 @@ When you upload files to GitHub, you'll store them in a "Git repository". This m
 There are plenty of Git-related actions that you can complete on GitHub directly in your browser, such as creating a Git repository, creating branches, and uploading and editing files.
 
 However, most people work on their files locally (on their own computer), then continually sync these local changes-and all the related Git data-with the central "remote" repository on GitHub. There are plenty of tools that you can use to do this, such as GitHub Desktop.
+
+Once you start to collaborate with others and all need to work on the same repository at the same time, you'll continually:
+
+* **Pull** all the latest changes made by your collaborators from the remote repository on GitHub.
+* **Push** back your own changes to the same remote repository on GitHub.
+
+Git figures out how to intelligently merge this flow of changes, and GitHub helps you manage the flow through features such as "pull requests".
+
+## Where do I start?
+
+If your new to GitHub, and unfamiliar with Git, we recommend working through the articles in the [Start your journey](https://docs.github.com/en/get-started/getting-started-with-github/start-your-journey) category. The articles focus on tasks you can complete directly in your browser on GitHub and will help you to:
+
+* **Create an account** on GitHub.
+* **Learn the "GitHub Flow"**, and the key principles of collaborative working (branches, commits, pull requests, merges).
+* **Personalise your profile** to share your interests and skills.
+* **Explore GitHub** to find inspiration for your own projects and connect with others.
+* Learn how to **download** interesting code for your own use.
+* Learn how to **upload** something you're working on to a GitHub repositor.
+
+## Next steps
+
+* [Creating an account on GitHub](creating-an-account-on-github.md)
