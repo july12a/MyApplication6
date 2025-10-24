@@ -8,7 +8,7 @@
 
 ### 간단한 구문을 사용하여 GitHub에서 산문 및 코드에 대한 정교한 서식을 만듭니다
 
-## Create sophisticated formatting for your prose and code on GitHub with simple sytax
+## Create sophisticated formatting for your prose and code on GitHub with simple syntax 
 
 ```
 누가 이 기능을 사용할 수 있나요?
